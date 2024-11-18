@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "category": "Hot Coffee",
+    "slug": "hot-coffee"
+  },
+  {
+    "id": 2,
+    "category": "Cold Coffee",
+    "slug": "cold-coffee"
+  },
+  {
+    "id": 3,
+    "category": "Blended Coffee",
+    "slug": "blended-coffee"
+  }
+]

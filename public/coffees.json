@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso",
+    "image": "https://i.ibb.co.com/LZ4k8g7/ec178d83e5f597b162cda1e60cb64194.png",
+    "category": "Hot Coffee",
+    "ingredients": ["Espresso Shot"],
+    "nutritions_info": {
+      "calories": 5,
+      "protein": 0.1,
+      "fat": 0.1,
+      "carbohydrates": 1,
+      "sugar": 0
+    },
+    "origin": "Italy",
+    "type": "Short Black",
+    "description": "A strong, full-bodied coffee made by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Brewed using an espresso machine with high pressure and hot water.",
+    "rating": 4.8,
+    "popularity": 95
+  },
+  {
+    "id": 2,
+    "name": "Cappuccino",
+    "image": "https://i.ibb.co.com/fG0H13R/download.jpg",
+    "category": "Hot Coffee",
+    "ingredients": ["Espresso", "Steamed Milk", "Foamed Milk"],
+    "nutritions_info": {
+      "calories": 70,
+      "protein": 3.5,
+      "fat": 4,
+      "carbohydrates": 6,
+      "sugar": 5
+    },
+    "origin": "Italy",
+    "type": "Milk Coffee",
+    "description": "A classic Italian coffee with equal parts espresso, steamed milk, and milk foam.",
+    "making_process": "Prepare a shot of espresso, add steamed milk, and top with a thick layer of milk foam.",
+    "rating": 4.7,
+    "popularity": 90
+  },
+  {
+    "id": 3,
+    "name": "Latte",
+    "image": "https://i.ibb.co.com/2M8PgmW/download.jpg",
+    "category": "Hot Coffee",
+    "ingredients": ["Espresso", "Steamed Milk"],
+    "nutritions_info": {
+      "calories": 120,
+      "protein": 6,
+      "fat": 5,
+      "carbohydrates": 10,
+      "sugar": 9
+    },
+    "category": "Hot Coffee",
+    "origin": "Italy",
+    "type": "Milk Coffee",
+    "description": "A creamy coffee drink made with espresso and steamed milk, topped with a small amount of foam.",
+    "making_process": "Brew espresso, pour steamed milk, and add a small layer of foam on top.",
+    "rating": 4.6,
+    "popularity": 92
+  },
+  {
+    "id": 4,
+    "name": "Americano",
+    "image": "https://i.ibb.co.com/Y0MfjB9/download.jpg",
+    "category": "Hot Coffee",
+    "ingredients": ["Espresso", "Hot Water"],
+    "nutritions_info": {
+      "calories": 10,
+      "protein": 0.2,
+      "fat": 0,
+      "carbohydrates": 2,
+      "sugar": 0
+    },
+    "origin": "United States",
+    "type": "Black Coffee",
+    "description": "A simple coffee made by diluting espresso with hot water, creating a smooth and mellow flavor.",
+    "making_process": "Add hot water to a shot of espresso.",
+    "rating": 4.5,
+    "popularity": 85
+  },
+  {
+    "id": 5,
+    "name": "Mocha",
+    "image": "https://i.ibb.co.com/C5MYbgF/4519280-mocha-Yoly-4x3-1-9ebfee5e5ec14a2d9a15b5c1a9abc5b8.jpg",
+    "category": "Hot Coffee",
+    "ingredients": ["Espresso", "Steamed Milk", "Chocolate Syrup"],
+    "nutritions_info": {
+      "calories": 200,
+      "protein": 7,
+      "fat": 7,
+      "carbohydrates": 30,
+      "sugar": 25
+    },
+    "origin": "Italy",
+    "type": "Espresso Coffee",
+    "description": "An espresso topped with a small amount of frothy milk foam, creating a strong, bold taste.",
+    "making_process": "Brew espresso and add a dollop of foamed milk.",
+    "rating": 4.4,
+    "popularity": 80
+  },
+  {
+    "id": 6,
+    "name": "Macchiato",
+    "image": "https://i.ibb.co.com/XjBsZ3r/download.jpg",
+    "category": "Hot Coffee",
+    "ingredients": ["Espresso", "Milk Foam"],
+    "nutritions_info": {
+      "calories": 15,
+      "protein": 0.5,
+      "fat": 0.5,
+      "carbohydrates": 2,
+      "sugar": 1
+    },
+    "origin": "Yemen",
+    "type": "Chocolate Coffee",
+    "description": "A rich blend of espresso, steamed milk, and chocolate syrup, topped with whipped cream.",
+    "making_process": "Mix espresso with chocolate syrup, add steamed milk, and top with whipped cream.",
+    "rating": 4.5,
+    "popularity": 88
+  },
+  {
+    "id": 7,
+    "name": "Flat White",
+    "image": "https://i.ibb.co.com/7jq0CVz/images.jpg",
+    "category": "Hot Coffee",
+    "ingredients": ["Espresso", "Steamed Milk"],
+    "nutritions_info": {
+      "calories": 120,
+      "protein": 6,
+      "fat": 5,
+      "carbohydrates": 10,
+      "sugar": 9
+    },
+    "origin": "Australia",
+    "type": "Milk Coffee",
+    "description": "A coffee made with microfoam milk poured over a shot of espresso, creating a velvety texture.",
+    "making_process": "Pour microfoam milk over freshly brewed espresso.",
+    "rating": 4.6,
+    "popularity": 87
+  },
+  {
+    "id": 8,
+    "name": "Iced Coffee",
+    "image": "https://i.ibb.co.com/fHXHmrm/images.jpg",
+    "category": "Cold Coffee",
+    "ingredients": ["Coffee", "Ice", "Milk", "Sugar"],
+    "nutritions_info": {
+      "calories": 80,
+      "protein": 2,
+      "fat": 2,
+      "carbohydrates": 15,
+      "sugar": 12
+    },
+    "origin": "Italy",
+    "type": "Dessert Coffee",
+    "description": "A scoop of vanilla ice cream topped with a shot of hot espresso, blending hot and cold flavors.",
+    "making_process": "Pour a shot of hot espresso over a scoop of vanilla ice cream.",
+    "rating": 4.7,
+    "popularity": 84
+  },
+  {
+    "id": 9,
+    "name": "Cold Brew",
+    "image": "https://i.ibb.co.com/4TM97rJ/download.jpg",
+    "category": "Cold Coffee",
+    "ingredients": ["Cold Brew Coffee", "Ice"],
+    "nutritions_info": {
+      "calories": 5,
+      "protein": 0.1,
+      "fat": 0,
+      "carbohydrates": 1,
+      "sugar": 0
+    },
+    "origin": "United States",
+    "type": "Iced Coffee",
+    "description": "A smooth, refreshing coffee brewed slowly with cold water for a rich flavor.",
+    "making_process": "Steep coarsely ground coffee in cold water for 12-24 hours, then strain.",
+    "rating": 4.8,
+    "popularity": 93
+  },
+  {
+    "id": 10,
+    "name": "Affogato",
+    "image": "https://i.ibb.co.com/gMxNyjj/download.jpg",
+    "category": "Blended Coffee",
+    "ingredients": ["Espresso", "Vanilla Ice Cream"],
+    "nutritions_info": {
+      "calories": 210,
+      "protein": 4,
+      "fat": 10,
+      "carbohydrates": 25,
+      "sugar": 20
+    },
+    "origin": "Italy",
+    "type": "Iced Milk Coffee",
+    "description": "A cold version of a latte, made with espresso and cold milk, served over ice.",
+    "making_process": "Combine espresso and cold milk, pour over ice, and stir.",
+    "rating": 4.6,
+    "popularity": 89
+  },
+  {
+    "id": 11,
+    "name": "Irish Coffee",
+    "image": "https://i.ibb.co.com/H4W4d75/download.jpg",
+    "category": "Blended Coffee",
+    "ingredients": ["Hot Coffee", "Irish Whiskey", "Sugar", "Cream"],
+    "nutritions_info": {
+      "calories": 150,
+      "protein": 1,
+      "fat": 5,
+      "carbohydrates": 12,
+      "sugar": 10
+    },
+    "origin": "Greece",
+    "type": "Blended Coffee",
+    "description": "A frothy, blended iced coffee drink made with instant coffee, water, and sugar.",
+    "making_process": "Blend instant coffee, water, sugar, and ice until frothy.",
+    "rating": 4.5,
+    "popularity": 83
+  },
+  {
+    "id": 12,
+    "name": "Frappuccino",
+    "image": "https://i.ibb.co.com/bvrbTJh/download.jpg",
+    "category": "Blended Coffee",
+    "ingredients": ["Coffee", "Ice", "Milk", "Syrup", "Whipped Cream"],
+    "nutritions_info": {
+      "calories": 250,
+      "protein": 4,
+      "fat": 8,
+      "carbohydrates": 40,
+      "sugar": 35
+    },
+    "origin": "Turkey",
+    "type": "Traditional Coffee",
+    "description": "A thick, unfiltered coffee made by boiling finely ground coffee with water and sugar in a cezve pot.",
+    "making_process": "Boil water with finely ground coffee and sugar in a cezve pot, then serve unfiltered.",
+    "rating": 4.7,
+    "popularity": 85
+  }
+]
